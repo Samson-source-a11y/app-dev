@@ -4,7 +4,7 @@ My first respository
 
 ## Reason for liking it
 **Perspective** As every character can be understand by their own perspective.
-*Characters that I like*
+##*Characters that I like*
 1. Jinx
 2. Caitlyn
 3. Vi
